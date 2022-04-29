@@ -1,0 +1,2 @@
+# LandMineGameGodelEntryTask
+Godel entry task
