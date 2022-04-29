@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oz7ECgQEpKauKnWVkcKLBW5O+eNpGNrcsz4VRuOy3gGdbE8FFnZl8eQl2MlIM6QsGWhinos9dbKoa3XESFDssg==",
+  "success": true,
+  "projectFilePath": "D:\\TrainingProjects\\Backend\\LandMineGameGodelEntryTask\\ApplicationSystem\\ApplicationSystem\\ApplicationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.stoyanov\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\d.stoyanov\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

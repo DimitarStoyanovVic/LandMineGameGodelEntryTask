@@ -1,0 +1,12 @@
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\bin\Debug\net6.0\ApplicationSystem.Utilities.deps.json
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\bin\Debug\net6.0\ApplicationSystem.Utilities.dll
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\bin\Debug\net6.0\ApplicationSystem.Utilities.pdb
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ApplicationSystem.Utilities.csproj.AssemblyReference.cache
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ApplicationSystem.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ApplicationSystem.Utilities.AssemblyInfoInputs.cache
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ApplicationSystem.Utilities.AssemblyInfo.cs
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ApplicationSystem.Utilities.csproj.CoreCompileInputs.cache
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ApplicationSystem.Utilities.dll
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\refint\ApplicationSystem.Utilities.dll
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ApplicationSystem.Utilities.pdb
+D:\TrainingProjects\Backend\LandMineGameGodelEntryTask\ApplicationSystem\ApplicationSystem.Utilities\obj\Debug\net6.0\ref\ApplicationSystem.Utilities.dll
